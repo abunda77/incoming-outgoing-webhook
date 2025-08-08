@@ -20,8 +20,14 @@ Prasyarat:
 
 Instalasi:
 1) Buat virtual environment dan aktifkan
+   # Windows
    uv venv
    .\venv\Scripts\Activate.ps1
+   
+   # Linux/MacOS
+   uv venv
+   source ./venv/bin/activate
+
 
 2) Install dependensi
    uv pip install uvicorn fastapi[all] playwright httpx
