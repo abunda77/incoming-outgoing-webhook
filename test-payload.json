@@ -1,0 +1,13 @@
+{
+  "sender_id": "628123456789",
+  "chat_id": "628987654321",
+  "from": "628123456789@s.whatsapp.net",
+  "timestamp": "2023-10-15T10:30:00Z",
+  "pushname": "John Doe",
+  "message": {
+    "text": "Hello, how are you?",
+    "id": "3EB0C127D7BACC83D6A1",
+    "replied_id": "",
+    "quoted_message": ""
+  }
+}
